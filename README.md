@@ -13,7 +13,7 @@ Some helpful information:
 # Strengths
 - **Organization/Structure.** Organization and structure reduces my anxiety. Having a plan brings me peace. I enjoy getting into the details and edge cases. I like to create structures or processes when they can improve how things work and not add friction.
 - **Critical Thinker.** I try to think critically when making decisions and base them on facts or principles. I try to understand the bigger picture and look at things systemically so that we address root causes and not symptoms.
-- **Perpetual learner.** I know that I don't know a lot. I ask questions to chase my curiosity. I don't mind being wrong as long as I'm explained why. I like experimenting to see what we learn.
+- **Calm Optimist.** I try to remain calm and in control of my emotions whenever possible. Additionally, I try to remain positive and focus on how to improve a situation rather than dwell on the negative.
 
 ## How to leverage my strengths
 - Ask me for help. I enjoy talking through challenges so that we can land on better solutions.
