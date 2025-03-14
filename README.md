@@ -22,7 +22,7 @@ Some helpful information:
 - Ask me for help. I enjoy talking through challenges so that we can land on better solutions.
 - Let me know of "areas of improvement" that we haven't invested enough time into. I always enjoy thinking about improving how teams work together.
 
-## Weaknesses
+## Struggles
 - **Getting caught up in the details.** I might go down a rabbithole on a thing that catches my attention before it's necessary to dig that deep.
 - **I struggle when there is _a lot_ of ambiguity (such as priorities).** I will generally try to disambiguate critical factors or make assumptions to move on. I don't like working on things that don't matter.
 - **Technical expertise of our team's technologies.** I have a background as a dev for PaaS solutions so I know the domain and general needs but I don't have years of experience with much of the technologies that we use across CORE IS.
